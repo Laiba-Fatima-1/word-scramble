@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔀 Word Scramble
 
 > Unscramble the word. Beat the clock. Climb the leaderboard.
@@ -117,3 +118,6 @@ You can add your own words and hints by editing the file directly.
 ## 👩‍💻 Author
 
 Built as a 1st semester C++ project.
+=======
+# WORDS-SCRAMBLE-GAME
+>>>>>>> 8dd3b2625ec5ecb7ced9f8c7711213433a20c7f9
