@@ -1,0 +1,51 @@
+programming The process of writing code
+computer A device used for computing
+keyboard An input device with keys
+developer A person who creates software
+software A set of programs that run on a computer
+hardware The physical components of a computer
+internet A global network connecting millions of devices
+science The study of the natural world
+technology The application of scientific knowledge
+algorithm A step-by-step procedure for solving a problem
+variable A storage location in programming
+function A reusable block of code that performs a task
+compile The process of converting code into executable form
+debugging The process of finding and fixing errors in code
+processor The brain of the computer
+database A structured collection of data
+networking The practice of connecting computers together
+encryption The process of securing data by converting it into code
+framework A structured environment for software development
+application A program designed for end users
+compiler A program that translates code into machine language
+data Information processed or stored by a computer
+syntax The rules that define the structure of a programming language
+loop A sequence of instructions that repeats until a condition is met
+binary A numbering system using only 0s and 1s
+debug The act of identifying and fixing errors in code
+interface A shared boundary between two systems
+command An instruction given to a computer
+protocol A set of rules for data exchange
+server A computer that provides services to other computers
+client A computer that accesses services from a server
+array A collection of elements stored at contiguous memory locations
+recursion A function that calls itself to solve a problem
+cache A small-sized type of volatile memory for quick access
+data structure A way of organizing and storing data efficiently
+API A set of functions and procedures for building software
+bit The smallest unit of data in computing
+byte A group of 8 bits
+cloud computing The practice of using remote servers to store data
+firewall A security system that controls network traffic
+hashing The process of converting data into a fixed-size value
+object-oriented A programming paradigm based on objects and classes
+script A short program that automates tasks
+thread A sequence of executable instructions managed independently
+virtual machine Software that emulates a physical computer
+garbage collection The process of automatic memory management
+repository A storage location for software and code
+session A temporary interaction between a user and a system
+domain The address of a website on the internet
+latency The delay before data transfer begins
+firmware Permanent software programmed into hardware
