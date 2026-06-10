@@ -1,0 +1,7 @@
+************************************* Invoked: Wed Jun 10 12:35:41 2026
+[0] Arguments: C:\Users\Hp\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20260322\msys2-x86_64-20260322.exe, install, --confirm-command, --root, C:\msys64
+[41] Operations sanity check succeeded.
+[54] Using metadata cache from "C:/Users/Hp/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[56] Found 0 cached items.
+[76] Loaded control script ":/metadata/installer-config/control_js"
+[78] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.

@@ -50,7 +50,7 @@ int main() {
     cout << "6. The leaderboard tracks the highest scores!\n\n";
 
     cout << "Enter your name: ";
-    cin >> playerName;
+    getline(cin, playerName);
 
     do {
         int difficulty;
@@ -61,7 +61,6 @@ int main() {
 
         cout << "\nDo you want to play again? (y/n): ";
         cin >> playAgain;
-        cin.ignore();
     } while (playAgain == 'y' || playAgain == 'Y');
 
     cout << "\n\n===== Leaderboard =====\n";
@@ -74,7 +73,11 @@ cout << "                                                  |--------------------
   cout << "                                                  --------------------------|\n";
   cout << "                                                   (\\__/) ||                \n";
   cout << "                                                   (> <)//                   \n";
-  cout << "                                                   / ~|                      \n";
+    cout << "                                                   / ~|                      \n";
+    cout << "\nPress Enter to exit...";
+    cin.ignore();
+    cin.get();
+
     return 0;
 }
 
